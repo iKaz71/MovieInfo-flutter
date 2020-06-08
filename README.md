@@ -1,16 +1,14 @@
 # MovieInfo
-
-A new Flutter project.
+ Utilizanod flutter pinto una pantalla mostrando info de una pelicula
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+flutter create MovieInfo
 
-A few resources to get you started if this is your first Flutter project:
+Resultado
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![1](https://user-images.githubusercontent.com/53926523/83991357-24324080-a912-11ea-84f9-b8ac2b9d0d19.PNG)
+![2](https://user-images.githubusercontent.com/53926523/83991360-26949a80-a912-11ea-8899-6e59e8e4e3be.PNG)
+
+
