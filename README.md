@@ -4,6 +4,7 @@
 ## Getting Started
 
 flutter create MovieInfo
+utilize un pixel 3 emulado con android studio y VS Code
 
 Resultado
 
